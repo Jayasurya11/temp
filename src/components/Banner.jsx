@@ -33,7 +33,7 @@ const Banner = () => {
           <p className="md:w-4/5">
           JS Bookstore is an online platfrom which has an extensive library of books which anyone can buy from anywhere around the world.
           with JS Bookstore you have access to all kind of educational, motivation and career book to keep you going in any areas.
-          If you have any questions or feedback, don't hesitate to contact at jayasuryae11@gmail.com
+          If you have any questions or feedback, don't hesitate to contact us at suryavk11@gmail.com
           </p>
           <form onSubmit={handleSearch}>
             <input

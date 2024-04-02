@@ -48,7 +48,7 @@ const MyFooter = () => {
               target="_blank"
               icon={BsGithub}
             />
-            <Footer.Icon href="mailto:jayasuryae11@gmail.com" className="text-white  " icon={IoMdMail} />
+            <Footer.Icon href="mailto:suryavk11@gmail.com" className="text-white  " icon={IoMdMail} />
           </div>
         </div>
       </div>
